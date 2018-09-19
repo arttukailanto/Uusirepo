@@ -10,15 +10,15 @@ namespace GitHarjoitus
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
+
             Console.WriteLine(1 + 2);
-=======
+
             
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
              
->>>>>>> dev
+
         }
     }
 }
